@@ -5,7 +5,7 @@ This project contains a comprehensive Power BI dashboard analyzing hotel booking
 The dashboard transforms exploratory data analysis (EDA) findings into interactive visualizations to
 provide insights into hotel booking patterns, customer behavior, and business performance metrics.
 
-__Project Structure__
+__Project Structure__    
 ├── Hotel Bookings.xlsx                   # Original raw dataset    
 ├── hotel_bookings_cleaned.xlsx           # Cleaned and processed dataset    
 ├── Hotel_Booking_Dashboard.pbix          # Power BI dashboard file      
