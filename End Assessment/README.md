@@ -29,8 +29,10 @@ __Getting Started__
 - Download and install Power BI Desktop if you haven't already
 - Clone or download this repository
   
-              git clone https://github.com/RaviSharma1901/Module-4    
-              cd "Module-4\End Assessment"    # PowerShell (Windows)    
+              git clone https://github.com/RaviSharma1901/Module-4
+  
+              cd "Module-4\End Assessment"    # PowerShell (Windows)
+  
               cd "Module-4/End Assessment"    # (Linux/MacOS)   
   
 - Open Hotel_Booking_Dashboard.pbix in Power BI Desktop
