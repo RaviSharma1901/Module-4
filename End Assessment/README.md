@@ -42,31 +42,31 @@ __Getting Started__
       - In Power BI, go to Home > Refresh
       - Resolve any data source path issues if they arise
 
-__Dashboard Features__
-- The Power BI dashboard includes visualizations and insights covering:
-       - Booking Trends: Seasonal patterns and booking volumes over time
-       - Customer Segmentation: Analysis of different customer types and their booking behavior
-       - Hotel Performance: Occupancy rates, revenue metrics, and operational insights
-       - Geographic Analysis: Booking patterns by location/country
-       - Cancellation Analysis: Understanding booking cancellations and their impact
-       - Interactive Filters: Dynamic filtering capabilities for detailed analysis
+__Dashboard Features__      
+- The Power BI dashboard includes visualizations and insights covering:      
+       - Booking Trends: Seasonal patterns and booking volumes over time      
+       - Customer Segmentation: Analysis of different customer types and their booking behavior      
+       - Hotel Performance: Occupancy rates, revenue metrics, and operational insights      
+       - Geographic Analysis: Booking patterns by location/country      
+       - Cancellation Analysis: Understanding booking cancellations and their impact      
+       - Interactive Filters: Dynamic filtering capabilities for detailed analysis      
 
-__Key Metrics Tracked__
-       - Total bookings and revenue
-       - Average daily rate (ADR)
-       - Occupancy rates
-       - Cancellation rates
-       - Lead time analysis
-       - Customer demographic insights
-       - Seasonal booking patterns
+__Key Metrics Tracked__            
+       - Total bookings and revenue      
+       - Average daily rate (ADR)            
+       - Occupancy rates      
+       - Cancellation rates      
+       - Lead time analysis      
+       - Customer demographic insights      
+       - Seasonal booking patterns      
 
-__Exploratory Data Analysis__
-- The The_DataViz_Challenge_Transforming_EDA_Projects_to_Dashboards.ipynb notebook contains:
-       - Data cleaning processes
-       - Statistical analysis
-       - Initial data exploration findings
-       - Preparation steps for dashboard creation
-- To view the EDA notebook:
+__Exploratory Data Analysis__      
+- The The_DataViz_Challenge_Transforming_EDA_Projects_to_Dashboards.ipynb notebook contains:      
+       - Data cleaning processes      
+       - Statistical analysis      
+       - Initial data exploration findings      
+       - Preparation steps for dashboard creation      
+- To view the EDA notebook:      
 
       jupyter notebook The_DataViz_Challenge_Transforming_EDA_Projects_to_Dashboards.ipynb
 
