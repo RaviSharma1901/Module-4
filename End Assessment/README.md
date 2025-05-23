@@ -43,7 +43,6 @@ __Getting Started__
       - Resolve any data source path issues if they arise
 
 __Dashboard Features__
-
 - The Power BI dashboard includes visualizations and insights covering:
        - Booking Trends: Seasonal patterns and booking volumes over time
        - Customer Segmentation: Analysis of different customer types and their booking behavior
@@ -80,8 +79,10 @@ __Use Cases__
         - Students/Researchers: Understanding hospitality industry data analysis
 
 __Dashboard Preview__
-Show Image
-🔧 Customization
+
+![Dashboard Preview](https://github.com/RaviSharma1901/Module-4/End%20Assessment/Screenshot%202025-01-29%20124711.png)
+
+__Customization__
 
 - To customize the dashboard for your needs:
         - Update data sources with your hotel booking data
