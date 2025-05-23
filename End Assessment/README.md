@@ -80,7 +80,7 @@ __Use Cases__
 
 __Dashboard Preview__
 
-![Dashboard Preview]([https://github.com/RaviSharma1901/Module-4/End%20Assessment/Screenshot%202025-01-29%20124711.png](https://github.com/RaviSharma1901/Module-4/blob/main/End%20Assessment/Screenshot%202025-01-29%20124711.png))
+![Dashboard Preview](https://github.com/RaviSharma1901/Module-4/blob/main/End%20Assessment/Screenshot%202025-01-29%20124711.png)
 
 __Customization__
 
