@@ -6,7 +6,7 @@ The dashboard transforms exploratory data analysis (EDA) findings into interacti
 provide insights into hotel booking patterns, customer behavior, and business performance metrics.
 
 __Project Structure__
-├── Hotel Bookings.xlsx                    # Original raw dataset    
+├── Hotel Bookings.xlsx                   # Original raw dataset    
 ├── hotel_bookings_cleaned.xlsx           # Cleaned and processed dataset    
 ├── Hotel_Booking_Dashboard.pbix          # Power BI dashboard file      
 ├── Screenshot 2025-01-29 124711.png      # Dashboard preview/screenshot    
@@ -28,6 +28,10 @@ __Getting Started__
 1. Opening the Dashboard   
 - Download and install Power BI Desktop if you haven't already
 - Clone or download this repository
+  
+              git clone https://github.com/RaviSharma1901/Module-4    
+              cd Module-4\"End Assessment"
+  
 - Open Hotel_Booking_Dashboard.pbix in Power BI Desktop
 - If prompted, ensure data connections point to the correct file paths
 
@@ -72,38 +76,35 @@ __Exploratory Data Analysis__
 
 __Use Cases__
 - This dashboard is ideal for:
-       - Hotel Managers: Understanding booking patterns and optimizing operations
-        - Revenue Analysts: Analyzing pricing strategies and revenue optimization
-        - Marketing Teams: Identifying customer segments and seasonal trends
-        - Data Analysts: Learning dashboard development from EDA projects
-        - Students/Researchers: Understanding hospitality industry data analysis
+    - Hotel Managers: Understanding booking patterns and optimizing operations
+    - Revenue Analysts: Analyzing pricing strategies and revenue optimization
+    - Marketing Teams: Identifying customer segments and seasonal trends
+    - Data Analysts: Learning dashboard development from EDA projects
+    - Students/Researchers: Understanding hospitality industry data analysis
 
 __Dashboard Preview__
 
 ![Dashboard Preview](https://github.com/RaviSharma1901/Module-4/blob/main/End%20Assessment/Screenshot%202025-01-29%20124711.png)
 
 __Customization__
-
 - To customize the dashboard for your needs:
-        - Update data sources with your hotel booking data
-        - Modify visualizations in Power BI Desktop
-        - Adjust filters and parameters as needed
-        - Add new metrics or KPIs relevant to your analysis
+    - Update data sources with your hotel booking data
+    - Modify visualizations in Power BI Desktop
+    - Adjust filters and parameters as needed
+    - Add new metrics or KPIs relevant to your analysis
 
 __Data Dictionary__
 - Key fields in the dataset include:
-        - hotel: Type of hotel (Resort/City)
-        - arrival_date: Check-in date information
-        - stays_in_nights: Total nights stayed
-        - adults/children/babies: Guest composition
-        - country: Guest origin country
-        - adr: Average daily rate
-        - is_canceled: Cancellation status
-
-
+    - hotel: Type of hotel (Resort/City)
+    - arrival_date: Check-in date information
+    - stays_in_nights: Total nights stayed
+    - adults/children/babies: Guest composition
+    - country: Guest origin country
+    - adr: Average daily rate
+    - is_canceled: Cancellation status
+    - 
 __Learning Resources__
-- AlmaBetter Data Science Program
-- Power BI Learning Path
-- Data Analysis with Python
-- Hotel Industry Analytics Best Practices 
+    - AlmaBetter Data Science Program
+    - Power BI Learning Path
+    - Data Analysis with Python
 
