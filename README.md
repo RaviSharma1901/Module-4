@@ -15,7 +15,7 @@ Module-4/
 │   ├── hotel_bookings_cleaned.xlsx (Processed Dataset)    
 │   ├── Dashboard Screenshot.png (Preview of Power BI Dashboard)    
 │   ├── EDA Notebook.ipynb (Jupyter Notebook for Data Analysis)    
-│
+│                                                                      
 │── __Mid Assessment__/    
 │   ├── README.md (Project Overview)    
 │   ├── Summative assignment.twb (Tableau Workbook)    
