@@ -81,6 +81,12 @@ __Assessment Components__
 
 __Usage__
 - Clone or download this repository
+
+       git clone https://github.com/RaviSharma1901/Module-4/
+
+       cd "Module-4\Mid Assessment"   # PowerShell (Windows)
+
+       cd "Module-4/Mid Assessment"   # (Linux/MacOS)
 - Open the Tableau workbook file in Tableau Desktop
 - Review the assessment document for context and analysis
 - Explore the interactive visualizations and dashboards
