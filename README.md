@@ -5,23 +5,24 @@
 __Overview__  
 This repository contains two major data visualization projects, demonstrating proficiency in Power BI, Tableau, and exploratory data analysis (EDA) using Python.
 
-Repository Structure
-Module-4/
-│── End Assessment/
-│   ├── README.md (Project Overview)
-│   ├── Hotel Bookings Dashboard.pbix (Power BI File)
-│   ├── Hotel Bookings.xlsx (Raw Dataset)
-│   ├── hotel_bookings_cleaned.xlsx (Processed Dataset)
-│   ├── Dashboard Screenshot.png (Preview of Power BI Dashboard)
-│   ├── EDA Notebook.ipynb (Jupyter Notebook for Data Analysis)
+__Repository Structure__
+
+Module-4/    
+│── End Assessment/    
+│   ├── README.md (Project Overview)    
+│   ├── Hotel Bookings Dashboard.pbix (Power BI File)    
+│   ├── Hotel Bookings.xlsx (Raw Dataset)    
+│   ├── hotel_bookings_cleaned.xlsx (Processed Dataset)    
+│   ├── Dashboard Screenshot.png (Preview of Power BI Dashboard)    
+│   ├── EDA Notebook.ipynb (Jupyter Notebook for Data Analysis)    
 │
-│── Mid Assessment/
-│   ├── README.md (Project Overview)
-│   ├── Summative assignment.twb (Tableau Workbook)
-│   ├── Tableau Assessment.docx (Analysis & Findings)
-│   ├── Superstore Dataset.csv (Retail Sales Data for Visualization)
+│── Mid Assessment/    
+│   ├── README.md (Project Overview)    
+│   ├── Summative assignment.twb (Tableau Workbook)    
+│   ├── Tableau Assessment.docx (Analysis & Findings)    
+│   ├── Superstore Dataset.csv (Retail Sales Data for Visualization)    
 │
-└── README.md (Main Project Overview)
+└── README.md (Main Project Overview)    
 
 __Projects in This Repository__
 - __Hotel Bookings Power BI Dashboard__ Interactive visualizations of hotel booking patterns
