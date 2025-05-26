@@ -38,7 +38,7 @@ __Project Description__
 
 __Tools and Technologies__
 
-- Tableau Desktop - Primary visualization tool
+- Tableau Public - Free version used for visualization
 - Microsoft Word - Documentation and reporting
 - Excel/CSV - Data source format
 - Sample Superstore Dataset - Retail sales data for analysis
@@ -54,58 +54,38 @@ __Dataset Information__
     
 __Getting Started__
 - Prerequisites
-  - Tableau Desktop (version compatible with .twb files)
+  - __Tableau Workbook__: Open summative assignment.twb in Tableau Public to view interactive visualizations.
   - Microsoft Word or compatible document viewer
 
-Opening the Files
+__Opening the Files__
+- __Tableau Workbook:__ Open summative assignment.twb in Tableau Desktop to view interactive visualizations
+- __Assessment Document:__ Open the Word document to review the complete assessment report
 
-Tableau Workbook: Open summative assignment.twb in Tableau Desktop to view interactive visualizations
-Assessment Document: Open the Word document to review the complete assessment report
+__Project Structure__
+- The analysis addresses 30 comprehensive questions covering:
+  - Sales Performance Analysis: Category-wise and temporal sales trends
+  - Customer Analytics: Customer behavior and performance metrics
+  - Geographic Analysis: Regional sales distribution and patterns
+  - Product Performance: Individual product and category analysis
+  - Profitability Analysis: Profit margins and financial insights
+  - Comparative Analysis: Year-over-year and segment comparisons
 
-Project Structure
-The analysis addresses 30 comprehensive questions covering:
+__Assessment Components__
+- The assessment likely covers:
+  - Data exploration and preparation
+  - Visualization design principles
+  - Dashboard creation
+  - Interactive elements
+  - Data interpretation and insights
+  - Documentation and presentation
 
-Sales Performance Analysis: Category-wise and temporal sales trends
-Customer Analytics: Customer behavior and performance metrics
-Geographic Analysis: Regional sales distribution and patterns
-Product Performance: Individual product and category analysis
-Profitability Analysis: Profit margins and financial insights
-Comparative Analysis: Year-over-year and segment comparisons
+__Usage__
+- Clone or download this repository
+- Open the Tableau workbook file in Tableau Desktop
+- Review the assessment document for context and analysis
+- Explore the interactive visualizations and dashboards
 
-Assessment Components
-The assessment likely covers:
-
-Data exploration and preparation
-Visualization design principles
-Dashboard creation
-Interactive elements
-Data interpretation and insights
-Documentation and presentation
-
-Usage
-
-Clone or download this repository
-Open the Tableau workbook file in Tableau Desktop
-Review the assessment document for context and analysis
-Explore the interactive visualizations and dashboards
-
-Author
-Ravi Sharma
-
-Course: Module-4 Data Visualization Tools
-Assessment Type: Mid-Course Summative
-
-Repository Information
-
-Last Updated: 4 months ago
-Initial Commit: Created folder structure for mid assignment files
-Repository Purpose: Academic coursework submission
-
-Notes
-
-Ensure you have the appropriate software installed to view all files
-The Tableau workbook may require specific data sources to function properly
-Refer to the Word document for detailed explanations and methodology
-
-License
-This repository contains academic coursework and is intended for educational purposes.
+__Notes__
+- Ensure you have the appropriate software installed to view all files
+- The Tableau workbook may require specific data sources to function properly
+- Refer to the Word document for detailed explanations and methodology
