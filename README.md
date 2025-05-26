@@ -8,7 +8,7 @@ This repository contains two major data visualization projects, demonstrating pr
 __Repository Structure__
 
 Module-4/    
-│── End Assessment/    
+│── __End Assessment__/    
 │   ├── README.md (Project Overview)    
 │   ├── Hotel Bookings Dashboard.pbix (Power BI File)    
 │   ├── Hotel Bookings.xlsx (Raw Dataset)    
@@ -16,7 +16,7 @@ Module-4/
 │   ├── Dashboard Screenshot.png (Preview of Power BI Dashboard)    
 │   ├── EDA Notebook.ipynb (Jupyter Notebook for Data Analysis)    
 │
-│── Mid Assessment/    
+│── __Mid Assessment__/    
 │   ├── README.md (Project Overview)    
 │   ├── Summative assignment.twb (Tableau Workbook)    
 │   ├── Tableau Assessment.docx (Analysis & Findings)    
